@@ -1,0 +1,24 @@
+{
+  "name": "jjsk-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jjsk-cli": "entry.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "commander": "^9.3.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^9.0.0",
+    "log-symbols": "^5.1.0",
+    "ora": "^5.0.0"
+  }
+}
