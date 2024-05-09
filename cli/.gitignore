@@ -6,6 +6,7 @@ test/tmp
 .cache
 .DS_Store
 .project
+.vscode
 .settings
 .log
 *.log
